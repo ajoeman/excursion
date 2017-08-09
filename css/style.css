@@ -1,0 +1,28 @@
+html{
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+h1, h2{
+  color: white;
+}
+h1{
+  font-size: 50px;
+}
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+.download{
+  color: aquamarine;
+  size: 16px;
+}
+#copy{
+  text-align: right;
+  color: grey;
+
+}
+p{
+  font-size: 21px;
+  color: grey;
+}
